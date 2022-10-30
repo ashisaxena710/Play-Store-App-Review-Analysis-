@@ -1,1 +1,2 @@
 # Play-Store-App-Review-Analysis-
+This exploratory data anlysis project has been done by using datasets, namely, Play Store App Dataset and User Reviews Dataset. In the first dataset there were _ columns and in the second there were _ columns. while doing this project data cleaning was the major challenge. We cleaned the data by handling the errors, duplicates and null values. When both the datasets were cleaned, we then merged both the datasets to analyse and explore them in a good manner. Let's go through the project file to see what insights we got.
